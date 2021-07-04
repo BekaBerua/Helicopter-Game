@@ -4,7 +4,7 @@ This Helicopter GUI Game was made entirely in Java.
 ## How To Play
 
 * For Character Movement Use Following Key Binds
-* 
+
   **W - Up**
   
   **A - Left**
